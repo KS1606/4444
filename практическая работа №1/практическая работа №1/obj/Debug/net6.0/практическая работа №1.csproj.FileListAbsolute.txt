@@ -1,0 +1,15 @@
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\bin\Debug\net6.0\практическая работа №1.exe
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\bin\Debug\net6.0\практическая работа №1.deps.json
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\bin\Debug\net6.0\практическая работа №1.runtimeconfig.json
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\bin\Debug\net6.0\практическая работа №1.dll
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\bin\Debug\net6.0\практическая работа №1.pdb
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\obj\Debug\net6.0\практическая работа №1.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\obj\Debug\net6.0\практическая работа №1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\obj\Debug\net6.0\практическая работа №1.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\obj\Debug\net6.0\практическая работа №1.AssemblyInfo.cs
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\obj\Debug\net6.0\практическая работа №1.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\obj\Debug\net6.0\практическая работа №1.dll
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\obj\Debug\net6.0\refint\практическая работа №1.dll
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\obj\Debug\net6.0\практическая работа №1.pdb
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\obj\Debug\net6.0\практическая работа №1.genruntimeconfig.cache
+C:\Users\KS\source\repos\практическая работа №1\практическая работа №1\obj\Debug\net6.0\ref\практическая работа №1.dll
